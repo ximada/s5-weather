@@ -1,0 +1,25 @@
+#weather-today-container{
+    background-color: rgba(6, 3, 20, 0.5);
+    color: antiquewhite;
+     font-weight: bold;
+    height: 70vh;
+}
+#weather-forecast-container{
+    background-color: rgba(6, 3, 20, 0.5);
+    color: antiquewhite;
+     font-weight: bold;
+
+}
+.weather-box{
+     background: url("../assets/images/w.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+     height: 90vh;
+     
+ }
+ .container-weeks{
+     background: url("../assets/images/bw.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
